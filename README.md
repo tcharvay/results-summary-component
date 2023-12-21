@@ -36,7 +36,7 @@ Users should be able to:
 ### Built with
 
 - HTML5
-- CSSgit
+- CSS
 
 ## Author
 
