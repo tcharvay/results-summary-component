@@ -31,9 +31,6 @@ Users should be able to:
 ![Desktop](./screenshots/desktop.png)
 ![Desktop](./screenshots/desktop-active.png)
 
-![Desktop](./screenshots/desktop.png)
-![Desktop](./screenshots/desktop-active.png)
-
 ### Built with
 
 - HTML5
