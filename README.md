@@ -28,13 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshots/desktop.png)
-![Desktop](./screenshots/desktop-active.png)
+![Desktop](./design/desktop-design.jpg "Challenge")
+
+![Desktop](./screenshots/desktop.png "Solution")
+![Desktop](./screenshots/desktop-active.png "Solution - active")
 
 ### Built with
 
 - HTML5
-- CSS
+- CSSgit
 
 ## Author
 
